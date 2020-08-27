@@ -1,7 +1,7 @@
 ---
-Date: '',''
-Event Title: '',''
-Speaker: '',''
-Description: '',''
-Manage by: '',''
+Date: ''
+Event Title: ''
+Speaker: ''
+Description: ''
+Manage by: ''
 ---
